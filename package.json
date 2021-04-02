@@ -1,0 +1,19 @@
+{
+  "name": "concise-redux",
+  "version": "0.1.0",
+  "description": "A minimal, type-safe abstraction on top of Redux for better developer productivity",
+  "main": "dist/index.js",
+  "types": "dist",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "typescript",
+    "redux"
+  ],
+  "author": "João Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
