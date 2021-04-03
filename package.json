@@ -12,7 +12,11 @@
     "redux"
   ],
   "author": "João Dias",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hastyy/concise-redux"
+  },
   "devDependencies": {
     "typescript": "^4.2.3"
   }
